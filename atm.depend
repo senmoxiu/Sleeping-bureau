@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686484166 source:c:\users\森修\desktop\atm\atm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687103304 source:d:\下载\睡务局\睡务局\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
